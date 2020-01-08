@@ -1,4 +1,7 @@
-for (i=1;i<101;i++){
+var i=0;while (i<100
+    ) {
+    
+    i++;
 
 
     console.log(i);
